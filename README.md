@@ -1,6 +1,6 @@
 ## elevator pitch
 
-![] (https://richpeaceblog.files.wordpress.com/2016/07/fashion-timeline-chinese-clothing-1.jpg)
+![](https://richpeaceblog.files.wordpress.com/2016/07/fashion-timeline-chinese-clothing-1.jpg)
 ### 1. Who the site is for?
 the fans of Chinese costume and its history
 
