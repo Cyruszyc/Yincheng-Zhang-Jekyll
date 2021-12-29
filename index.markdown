@@ -4,7 +4,8 @@
 title: The History of Bronze Heads In The Old Summer Palace
 layout: index
 ---
-
+<img src = "{{exhibit.image-url}}" >
 {% for exhibit in site.exhibits %}
 <p>{{ exhibit.title }} by {{ exhibit.creator }}</p>
+
 {% endfor %}
